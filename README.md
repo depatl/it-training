@@ -3,3 +3,5 @@
 * [Cisco: Networking basics](https://www.netacad.com/courses/networking-basics?courseLang=en-US)
 * [Introduction to networking](https://www.coursera.org/learn/introduction-to-networking-nvidia)
 
+## Linux
+[Linux Foundation: Intro to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
