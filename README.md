@@ -4,4 +4,4 @@
 * [Introduction to networking](https://www.coursera.org/learn/introduction-to-networking-nvidia)
 
 ## Linux
-[Linux Foundation: Intro to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
+* [Linux Foundation: Intro to Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
